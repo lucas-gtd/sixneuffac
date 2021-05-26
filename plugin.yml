@@ -1,0 +1,6 @@
+name: SixNeufFac
+version: 0.1
+author: evroxfr
+main: fr.evrox.faction.Main
+commands:
+  f:
